@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("合并分支");
         System.out.println("分支提交");
         System.out.println("哥们我新写的提交了");
+        System.out.println("我又提交了");
     }
 }
